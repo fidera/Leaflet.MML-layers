@@ -12,7 +12,8 @@ Proj4Leaflet must be loaded to use WMTS layers.
 ### [Demo](http://jleh.github.io/Leaflet.MML-layers)
 
 Changelog
----------
+--------- 
+* **2.2.0** Added support for API-key as option parameter
 * **2.1.0** Use avoin-karttakuva MML endpoint. Tiles from old endpoint are not updated.
 * **2.0.0** Compatible with Leaflet 1.0
 * **1.3.1** Project can be installed as an npm package.
